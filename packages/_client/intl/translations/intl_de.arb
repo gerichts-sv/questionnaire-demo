@@ -1,0 +1,9 @@
+{
+  "@@locale": "de",
+  "@@last_modified": "2021-01-11T11:45:04.642554",
+  "Enter a value": "Eingabe erforderlich.",
+  "Enter a number_Error message when input is not a number.": "Nur Zahlen sind erlaubt.",
+  "LowerBoundValidator_numberIsTooSmallMsg": "Die Zahl muss {lowerBound} oder größer sein.",
+  "UpperBoundValidator_numberIsTooLargeMsg": "Die Zahl muss {upperBound} oder kleiner sein.",
+  "Enter an email address": "Bitte geben Sie eine E-Mail Adresse ein."
+}

@@ -1,0 +1,19 @@
+{
+  "@@locale": "en",
+  "@@last_modified": "2020-12-30T11:54:11.226870",
+  "Form_defaultSelectOption": "Please choose",
+  "@Form_defaultSelectOption": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "Status_projectCommissioned": "Project comissioned",
+  "@Status_projectCommissioned": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "Status_objectBilled": "Object billed",
+  "@Status_objectBilled": {
+    "type": "text",
+    "placeholders": {}
+  }
+}

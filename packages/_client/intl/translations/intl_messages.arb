@@ -1,0 +1,280 @@
+{
+  "@@last_modified": "2021-01-12T14:59:27.161828",
+  "Form_defaultSelectOption": "Bitte wählen",
+  "@Form_defaultSelectOption": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "Form_notSpecified": "Keine Angabe",
+  "@Form_notSpecified": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "ValidationFeedback_inputRequired": "Eingabe erforderlich",
+  "@ValidationFeedback_inputRequired": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "ValidationFeedback_min": "Die Eingabe muss größer als {min} sein",
+  "@ValidationFeedback_min": {
+    "type": "text",
+    "placeholders": {
+      "min": {}
+    }
+  },
+  "ValidationFeedback_max": "Die Eingabe muss kleiner als {max} sein",
+  "@ValidationFeedback_max": {
+    "type": "text",
+    "placeholders": {
+      "max": {}
+    }
+  },
+  "FormSection_location": "Lage",
+  "@FormSection_location": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "FormSection_projectInformation": "Projektangaben",
+  "@FormSection_projectInformation": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "FormSection_projectSize": "Projektgröße",
+  "@FormSection_projectSize": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "FormSection_qualityOfFurnishings": "Ausstattungsqualität",
+  "@FormSection_qualityOfFurnishings": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "FormSection_costKeyValues": "Kostenkennwerte",
+  "@FormSection_costKeyValues": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "FormField_statusYear": "im Jahr",
+  "@FormField_statusYear": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "FormField_buildingTypeOther": "sonstige Gebäudeart",
+  "@FormField_buildingTypeOther": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "FormField_buildingTypeFloorsBelowGround": "Geschoße unterirdisch",
+  "@FormField_buildingTypeFloorsBelowGround": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "FormField_buildingTypeFloorsAboveGround": "Geschoße oberirdisch",
+  "@FormField_buildingTypeFloorsAboveGround": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "FormField_locationZipCode": "PLZ",
+  "@FormField_locationZipCode": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "FormField_locationDistrict": "Bezirk",
+  "@FormField_locationDistrict": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "FormField_locationMunicipality": "Gemeinde",
+  "@FormField_locationMunicipality": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "FormField_projectInformationResidentialUnits": "Wohneinheiten",
+  "@FormField_projectInformationResidentialUnits": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "FormField_projectInformationOtherUnits": "Sonstige Einheiten (z.B.: Büro, Geschäftslokal)",
+  "@FormField_projectInformationOtherUnits": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "FormField_projectInformationTypeOfUseOther": "Sonstige Nutzungseinheiten",
+  "@FormField_projectInformationTypeOfUseOther": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "FormField_projectInformationGarageParkingLots": "KFZ-Abstellplätze in Garage",
+  "@FormField_projectInformationGarageParkingLots": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "FormField_projectSizeMainFloorsLiving": "Hauptgeschoße Wohnen",
+  "@FormField_projectSizeMainFloorsLiving": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "FormField_projectSizeMainFloorsOtherUnits": "Hauptgeschoße Sonstige Einheiten",
+  "@FormField_projectSizeMainFloorsOtherUnits": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "FormField_projectSizeSecondaryFloorsGarage": "Nebengeschoße Garage",
+  "@FormField_projectSizeSecondaryFloorsGarage": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "FormField_projectSizeSecondaryRemaining": "Nebengeschoße Restflächen",
+  "@FormField_projectSizeSecondaryRemaining": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "Status_name": "Status",
+  "@Status_name": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "Status_projectCommissioned": "Projekt beauftragt",
+  "@Status_projectCommissioned": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "Status_objectBilled": "Objekt abgerechnet",
+  "@Status_objectBilled": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "Client_name": "Auftraggeber",
+  "@Client_name": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "Client_private": "Privat",
+  "@Client_private": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "Client_propertyDelevoper": "Bauträger",
+  "@Client_propertyDelevoper": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "Client_privatelyFinanced": "Frei finanziert",
+  "@Client_privatelyFinanced": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "Client_limitedProfitHousingAssociation": "Gemeinnützige Bauvereinigung",
+  "@Client_limitedProfitHousingAssociation": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "Client_subsidized": "Gefördert",
+  "@Client_subsidized": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "BuildingType_name": "Gebäudeart",
+  "@BuildingType_name": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "BuildingType_familyResidentialBuilding": "1-2 Familien-WH",
+  "@BuildingType_familyResidentialBuilding": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "BuildingType_terracedHouse": "Reihenhaus Anlage",
+  "@BuildingType_terracedHouse": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "BuildingType_apartmentBuilding": "Mehrfamilien-WH",
+  "@BuildingType_apartmentBuilding": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "BuildingType_other": "Sonstiges",
+  "@BuildingType_other": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "QualityOfFurnishings_name": "Ausstattungsqualität",
+  "@QualityOfFurnishings_name": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "QualityOfFurnishings_normal": "Normal",
+  "@QualityOfFurnishings_normal": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "QualityOfFurnishings_elevated": "Gehoben",
+  "@QualityOfFurnishings_elevated": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "QualityOfFurnishings_highQuality": "Hochwertig",
+  "@QualityOfFurnishings_highQuality": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "QualityOfFurnishings_detailedInput": "Detaillierte Angabe",
+  "@QualityOfFurnishings_detailedInput": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "IncludedTax_name": "Umsatzsteuer",
+  "@IncludedTax_name": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "IncludedTax_yes": "inklusive Umsatzsteuer",
+  "@IncludedTax_yes": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "IncludedTax_no": "exklusive Umsatzsteuer",
+  "@IncludedTax_no": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "Enter an email address": "Enter an email address",
+  "@Enter an email address": {
+    "description": "Error message when the input is not an email address.",
+    "type": "text",
+    "placeholders": {}
+  },
+  "Enter a value": "Enter a value",
+  "@Enter a value": {
+    "description": "Error message when the input is empty and required.",
+    "type": "text",
+    "placeholders": {}
+  },
+  "Enter a number_Error message when input is not a number.": "Enter a number",
+  "@Enter a number_Error message when input is not a number.": {
+    "description": "Error message when input is not a number.",
+    "type": "text",
+    "placeholders": {}
+  },
+  "LowerBoundValidator_numberIsTooSmallMsg": "Enter a number {lowerBound} or greater",
+  "@LowerBoundValidator_numberIsTooSmallMsg": {
+    "description": "Error message when input number is too small.",
+    "type": "text",
+    "placeholders": {
+      "lowerBound": {
+        "example": 42
+      }
+    }
+  },
+  "UpperBoundValidator_numberIsTooLargeMsg": "Enter a number {upperBound} or smaller",
+  "@UpperBoundValidator_numberIsTooLargeMsg": {
+    "description": "Error message when number input is too large.",
+    "type": "text",
+    "placeholders": {
+      "upperBound": {
+        "example": 42
+      }
+    }
+  }
+}
